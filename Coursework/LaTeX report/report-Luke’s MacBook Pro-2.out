@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Training Data Generation}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Display workspace of the Revolute Arm}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Implement 2-layer network}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Implement 2-layer network training}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Train network inverse kinematics}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Test and improve the inverse model}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Path through a maze}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Random start state}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Build a reward function}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Generate the transition matrix}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Initialize Q-values}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.5}{Implement DynaQ-learning algorithm}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.6}{Run DynaQ-learning}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.7}{Exploitation of Q-values}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Move arm endpoint through maze}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Generate kinematic control to revolute arm}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Animate revolute arm movement}{section.4}% 17
